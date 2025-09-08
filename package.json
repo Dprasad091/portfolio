@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next export",
+    "start": "next start",
     "lint": "next lint"
   },
   "author": {
@@ -22,7 +22,6 @@
     "space-portfolio",
     "portfolio",
     "react-icons",
-    "cn",
     "clsx",
     "3d-portfolio",
     "3d-website",
@@ -48,23 +47,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/Dprasad091/space-portfolio"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/Dprasad091/space-portfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/Dprasad091/space-portfolio/issues",
+    "email": "prasaddumpala2004@gmail.com"
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "@react-three/drei": "^9.93.0",
